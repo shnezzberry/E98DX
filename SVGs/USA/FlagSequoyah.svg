@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="50mm"
+   height="30mm"
+   viewBox="0 0 50 30"
    version="1.1"
    id="svg62645"
    sodipodi:docname="FlagSequoyah.svg"
@@ -30,7 +30,8 @@
        markerUnits="strokeWidth">
       <path
          id="path7"
-         d="M 0,0 10,5 0,10 0,0 z" />
+         d="M 0,0 10,5 0,10 Z"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        id="ArrowStart"
@@ -43,7 +44,8 @@
        markerUnits="strokeWidth">
       <path
          id="path10"
-         d="M 10,0 0,5 10,10 10,0 z" />
+         d="M 10,0 0,5 10,10 Z"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -53,9 +55,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="31243.888"
-     inkscape:cy="17043.225"
+     inkscape:zoom="4"
+     inkscape:cx="40.990402"
+     inkscape:cy="88.364376"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,14 +77,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-8222.0625,4213.7998)">
     <rect
        style="opacity:1;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.25095379;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect71052"
